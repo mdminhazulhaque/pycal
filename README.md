@@ -28,9 +28,10 @@ minhaz:~/pycal$ python cal.py 2016 02
  29
 ```
 
-## Generate Markdown-friendly calendar
+## Generate Markdown-friendly calendar (cal-md.py)
 
 ```
+minhaz:~/pycal$ python cal-md.py 2016 02
 ### February   2016
 |  Mo|  Tu|  We|  Th|  Fr|  Sa|  Su|
 | ---| ---| ---| ---| ---| ---| ---|
